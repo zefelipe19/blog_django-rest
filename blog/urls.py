@@ -3,5 +3,5 @@ from . import views
 
 
 urlpatterns = [
-    path('', views.index, name='index')
+    path('api/', views.BlogList.as_view(), name='index')
 ]
