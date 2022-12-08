@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px;
+    background-color: #444;
+    color: #dbdbdb;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+.tabulado {
+    margin-left: 30px;
+}
+
+.posts {
+    padding: 18px 30px;
+    border: solid #fff;
+}
+
+.make-post {
+    margin: 8px;
+    padding: 30px 60px;
+    border: dashed #fff;
+}
+
+.form-component {
+    height: 20px;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px 0px;
+}
+
+.form-component-buttom {
+    padding: 8px;
+    background-color: #039f9f;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
